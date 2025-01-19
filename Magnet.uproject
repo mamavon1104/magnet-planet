@@ -14,6 +14,11 @@
 		{
 			"Name": "RawInput",
 			"Enabled": true
+		},
+		{
+			"Name": "Interhaptics",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/144f63ae2fc3428587323e77cffdb0eb"
 		}
 	]
 }
