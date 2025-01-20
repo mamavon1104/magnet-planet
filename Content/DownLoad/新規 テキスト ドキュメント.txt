@@ -1,0 +1,13 @@
+テクスチャーのリンク集。
+
+小惑星テクスチャ
+https://polyhaven.com/a/rock_boulder_dry
+
+GraniteTileテクスチャ
+https://polyhaven.com/a/granite_tile
+
+六角形テクスチャ
+https://polyhaven.com/a/hexagonal_concrete_paving
+
+Rubberテクスチャ
+https://polyhaven.com/a/rubber_tiles
